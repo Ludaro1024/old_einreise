@@ -212,8 +212,8 @@ RegisterNetEvent('einreisey', function()
 
 
     -- disabled = false
-    local background = Sprite.New('custommenunew', 'banner', 0, 0, 512, 128)
-    mainmenu:SetBannerSprite(background, true)
+  -- local background = Sprite.New('custommenunew', 'banner', 0, 0, 512, 128)
+   -- mainmenu:SetBannerSprite(background, true)
 
 
     
